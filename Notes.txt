@@ -5,3 +5,4 @@
 
 * Nereye yazılır
 - Sayfa içinde script..script tagları içinde.(body veya head etiketleri içinde olacak sekilde)
+- Ya da ayrı bir js extension lı bir dosyaya yazılabilir...
