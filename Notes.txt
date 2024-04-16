@@ -1,0 +1,7 @@
+* Javascript Nedir
+- Amac olarak duraðan olan HTML sayfa yapýsýný daha etkilesimli hale getirmek.
+- Java ile karýþtýrýlmamalýdýr.
+- internetin dili
+
+* Nereye yazýlýr
+- Sayfa içinde script..script taglarý içinde.(body veya head etiketleri içinde olacak sekilde)
