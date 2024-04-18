@@ -28,6 +28,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{900999A1-8F64-4597-9B4D-1CE2D77E069A}"
 	ProjectSection(SolutionItems) = preProject
 		Notes.txt = Notes.txt
+		sample04.html = sample04.html
+		sample04.js = sample04.js
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P02_JS-Samples", "P02_JS-Samples\", "{CCA0B9AC-4885-447F-95BC-2FA1A9557D9B}"
